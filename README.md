@@ -49,7 +49,7 @@ Performance metrics include:
 - Confusion Matrix  
 - ROC-AUC  
 
-Visualizations are generated using **Plotly** to interpret model results and performance trends.  
+Visualizations are generated using **Mathplotlib** to interpret model results.  
 
 ---
 
@@ -74,7 +74,7 @@ Python version: **3.8+**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/IMDB_Reviews_Sentiment_Analysis.git
+   git clone https://github.com/AdityaTrivedi1/IMDB-Reviews-Sentiment-Analysis.git
    cd IMDB_Reviews_Sentiment_Analysis
    ```
 
@@ -83,10 +83,6 @@ Python version: **3.8+**
    pip install -r requirements.txt
    ```
 
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. **Open the notebook**
     ```bash
     jupyter notebook IMDB_Reviews_Sentiment_Analysis.ipynb

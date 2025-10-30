@@ -3,5 +3,5 @@ numpy
 joblib
 scikit-learn
 tensorflow
-plotly
+matplotlib
 gensim
